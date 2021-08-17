@@ -52,6 +52,6 @@ prompt2()
 
 print()
 
-total = (int(pennies)*0.01) + (int(nickels)*0.05) + (int(dimes)*0.10) + (int(quarters)*0.25) + (int(dollat_coins)*1.00) + (int(penny_rolls)*0.50) + (int(nickel_rolls)*2.00) + (int(dime_rolls)*5.00) + (int(quarter_rolls)*10.00) + (int(ones)*1.00) + (int(twos)*2.00) + (int(fives)*5.00) + (int(tens)*10.00) + (int(twenties)*20.00) + (int(fifties)*50) + (int(hundreds)*100)
+total = (int(pennies)*0.01) + (int(nickels)*0.05) + (int(dimes)*0.10) + (int(quarters)*0.25) + (int(dollar_coins)*1.00) + (int(penny_rolls)*0.50) + (int(nickel_rolls)*2.00) + (int(dime_rolls)*5.00) + (int(quarter_rolls)*10.00) + (int(ones)*1.00) + (int(twos)*2.00) + (int(fives)*5.00) + (int(tens)*10.00) + (int(twenties)*20.00) + (int(fifties)*50) + (int(hundreds)*100)
 
 print("Your total is", total)
